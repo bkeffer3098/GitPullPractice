@@ -1,0 +1,12 @@
+wowoowowoow
+janka.txt
+type. janka txt
+type janka.txt
+x
+^X
+h
+h
+less janka.txt
+^G
+git status
+gtjklk
